@@ -8,7 +8,7 @@ STEPS
 
 MODIFICATION
 1.User should save their video to be cut into clips in VideoSource file with name "your_video.mp4"
-2.User can modify video playing while waiting extraction of user's focus interval in the 10 minutes by saving favoured video into VideoSource/
+2.User can modify video playing while waiting extraction of user's focus interval in the 10 minutes by saving favoured video into VideoSource/ with name "tuto.mp4"
 
 DETAILS:
 Video Cutter details:
