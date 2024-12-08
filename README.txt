@@ -1,3 +1,5 @@
+SPECIAL CREDIT TO Alireza Ghaderi, github username: alireza787b. The face tracking program is from this cool dude's github. 
+
 STEPS
 1.To launch this program, please press on interface.exe
 2.OPTIONAL:Press button "Play Video" to watch an example 10 minutes video while recording user's focus for the next step.
